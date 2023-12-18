@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning HTML and CSS
 - 💬 Ask me about Python
 - ⚡ Fun fact: My favorite animals are cats and guinea pigs
-- 📫 You can reach me via Discord @ Xewdy#7378 or via email @ xewdy@xewdy.tech
+- 📫 You can reach me via Discord @ Xewdy#7378 or via email @ xewdy@xewdy.systems
 
 <div>
   <a href="https://github.com/Xewdy444">
